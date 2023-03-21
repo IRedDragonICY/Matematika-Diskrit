@@ -242,6 +242,7 @@ int main()
     calculateIntersection(totalSets);
     calculateUnion(totalSets);
     calculateModulus(totalSets);
+    system("pause");
     return 0;
 }
 
