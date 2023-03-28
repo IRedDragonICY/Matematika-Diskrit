@@ -275,5 +275,6 @@ int main(){
     printListElements(totalSets);
     calcRelation();
     calcDivisible();
+    system("pause");
     return 0;
 }
